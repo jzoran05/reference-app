@@ -5,7 +5,6 @@ C:\Source\Products\reference-app\src\monolith-app\aspnet-web\bin\Debug\netcoreap
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\bin\Debug\netcoreapp2.2\aspnet-web.pdb
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\bin\Debug\netcoreapp2.2\aspnet-web.Views.dll
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\bin\Debug\netcoreapp2.2\aspnet-web.Views.pdb
-C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.csprojAssemblyReference.cache
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.csproj.CoreCompileInputs.cache
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.RazorAssemblyInfo.cache
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.RazorAssemblyInfo.cs
@@ -28,3 +27,4 @@ C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreap
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.dll
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.pdb
 C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.csproj.CopyComplete
+C:\Source\Products\reference-app\src\monolith-app\aspnet-web\obj\Debug\netcoreapp2.2\aspnet-web.csprojAssemblyReference.cache

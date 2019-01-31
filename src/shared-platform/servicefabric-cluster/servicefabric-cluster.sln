@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "demo-asf", "..\demo-asf\demo-asf.deployproj", "{82460EE3-6ECA-4191-B9DC-93F0B53AC931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82460EE3-6ECA-4191-B9DC-93F0B53AC931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82460EE3-6ECA-4191-B9DC-93F0B53AC931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82460EE3-6ECA-4191-B9DC-93F0B53AC931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82460EE3-6ECA-4191-B9DC-93F0B53AC931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB03EDD1-225C-4231-A494-698A7157C3B6}
+	EndGlobalSection
+EndGlobal

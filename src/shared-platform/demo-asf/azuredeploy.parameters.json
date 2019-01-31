@@ -1,0 +1,129 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+  "parameters": {
+    "clusterLocation": {
+      "value": "westeurope"
+    },
+    "clusterName": {
+      "value": "csucsa-demoasf"
+    },
+    "nt0applicationStartPort": {
+      "value": 20000
+    },
+    "nt0applicationEndPort": {
+      "value": 30000
+    },
+    "nt0ephemeralStartPort": {
+      "value": 49152
+    },
+    "nt0ephemeralEndPort": {
+      "value": 65534
+    },
+    "nt0fabricTcpGatewayPort": {
+      "value": 19000
+    },
+    "nt0fabricHttpGatewayPort": {
+      "value": 19080
+    },
+    "nt0reverseProxyEndpointPort": {
+      "value": 19081
+    },
+    "subnet0Name": {
+      "value": "Subnet-0"
+    },
+    "subnet0Prefix": {
+      "value": "10.0.0.0/24"
+    },
+    "computeLocation": {
+      "value": "westeurope"
+    },
+    "publicIPAddressName": {
+      "value": "csucsa-demoasf-PubIP"
+    },
+    "publicIPAddressType": {
+      "value": "Dynamic"
+    },
+    "vmStorageAccountContainerName": {
+      "value": "vhds"
+    },
+    "adminUserName": {
+      "value": "zojovano"
+    },
+    "adminPassword": {
+      "value": null
+    },
+    "virtualNetworkName": {
+      "value": "VNet-csucsa-demoasf"
+    },
+    "addressPrefix": {
+      "value": "10.0.0.0/16"
+    },
+    "dnsName": {
+      "value": "csucsa-demoasf"
+    },
+    "nicName": {
+      "value": "NIC-csucsa-demoasf"
+    },
+    "lbName": {
+      "value": "LB-csucsa-demoasf"
+    },
+    "lbIPName": {
+      "value": "LBIP-csucsa-demoasf"
+    },
+    "overProvision": {
+      "value": "false"
+    },
+    "vmImagePublisher": {
+      "value": "MicrosoftWindowsServer"
+    },
+    "vmImageOffer": {
+      "value": "WindowsServer"
+    },
+    "vmImageSku": {
+      "value": "2016-Datacenter-with-Containers"
+    },
+    "vmImageVersion": {
+      "value": "latest"
+    },
+    "sourceVaultValue": {
+      "value": "/subscriptions/3aba1271-ca5f-49e8-9229-2214ec0ac30c/resourceGroups/CSU-Common/providers/Microsoft.KeyVault/vaults/csucsa-work"
+    },
+    "certificateUrlValue": {
+      "value": "https://csucsa-work.vault.azure.net/secrets/csucsa-demoasf/d763a3f58f2d4cfab7d29dab8319fa7f"
+    },
+    "clusterProtectionLevel": {
+      "value": "EncryptAndSign"
+    },
+    "certificateStoreValue": {
+      "value": "My"
+    },
+    "certificateThumbprint": {
+      "value": "7DD4B6FF45E3DA273FEFE2A307D03A1023337031"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "supportLogStorageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "supportLogStorageAccountName": {
+      "value": "sflogscsucsademoasf8307"
+    },
+    "applicationDiagnosticsStorageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "applicationDiagnosticsStorageAccountName": {
+      "value": "sfdgcsucsademoasf9249"
+    },
+    "nt0InstanceCount": {
+      "value": 3
+    },
+    "vmNodeType0Name": {
+      "value": "default"
+    },
+    "vmNodeType0Size": {
+      "value": "Standard_D1_v2"
+    }
+  }
+}

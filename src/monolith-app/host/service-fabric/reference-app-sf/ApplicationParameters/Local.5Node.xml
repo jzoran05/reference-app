@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/monolith_reference_app_sf" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="aspnet_web_sf_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="aspnet_web_sf_InstanceCount" Value="1" />
+  </Parameters>
+</Application>

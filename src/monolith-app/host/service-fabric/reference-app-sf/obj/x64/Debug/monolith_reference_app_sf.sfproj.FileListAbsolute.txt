@@ -1,0 +1,2 @@
+C:\Source\Products\reference-app\src\monolith-reference-app-sf\obj\x64\Debug\monolith_reference_app_sf.sfproj.CoreCompileInputs.cache
+C:\Source\Products\reference-app\src\monolith-app\host\service-fabric\monolith-reference-app-sf\obj\x64\Debug\monolith_reference_app_sf.sfproj.CoreCompileInputs.cache
