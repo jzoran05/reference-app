@@ -4,6 +4,9 @@
 
 /src/aspnet_web_sf/bin/Debug/netcoreapp2.2/win7-x64
 /src/aspnet_web_sf/obj
+/src/aspnet_web_sf/bin
+/src/aspnet_web/bin
+/src/aspnet_web/obj
 /src/monolith-app/.vs/monolith-app/v15
 /src/monolith-app/aspnet-web/.vs/aspnet-web/v15
 /src/monolith-app/aspnet-web/packages/Microsoft.VisualStudio.Azure.Fabric.MSBuild.1.6.7
