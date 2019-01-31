@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "demo-asf", "..\demo-asf\demo-asf.deployproj", "{82460EE3-6ECA-4191-B9DC-93F0B53AC931}"
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "demo-asf", ".\demo-asf\demo-asf.deployproj", "{82460EE3-6ECA-4191-B9DC-93F0B53AC931}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
