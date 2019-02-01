@@ -1,0 +1,15 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: reference-app
+spec:
+  template:
+    metadata:
+      labels:
+        app: reference-app
+    spec:
+      containers:
+      - name: reference-app
+        image: aksdemoreg.azurecr.io/reference-app:nanoserver-sac2016
+#      imagePullSecrets:
+#      - name: acr-auth

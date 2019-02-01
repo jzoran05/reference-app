@@ -1,0 +1,1 @@
+docker build -f Dockerfile -t reference-app:nanoserver-sac2016 ../../

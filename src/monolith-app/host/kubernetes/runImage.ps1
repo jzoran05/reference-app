@@ -1,0 +1,1 @@
+kubectl run reference-app --image aksdemoreg.azurecr.io/reference-app:nanoserver-sac2016 --port 8080
